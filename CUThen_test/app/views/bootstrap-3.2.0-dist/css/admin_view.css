@@ -1,0 +1,13 @@
+body{
+	background-color: #999;
+}
+div.container-fluid{
+	background-color: #BBB;
+}
+div.input-group{
+	width: 100%;
+}
+html {
+		/* Size of largest container or bigger */
+		min-width: 960px;
+}
